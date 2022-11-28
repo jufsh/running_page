@@ -63,6 +63,8 @@
     "test": "node test.js",
     "ci": "yarn run check && yarn run build && yarn run test"
   },
+  "engineStrict": true,
+  "browserslist": "defaults, not ie 11",
   "engines": {
     "node": ">=14.15.0"
   },
