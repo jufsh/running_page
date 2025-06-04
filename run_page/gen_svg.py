@@ -13,7 +13,6 @@ from gpxtrackposter import (
     month_of_life_drawer,
 )
 from gpxtrackposter.exceptions import ParameterError, PosterError
-from config import SQL_FILE
 
 # from flopp great repo
 __app_name__ = "create_poster"
