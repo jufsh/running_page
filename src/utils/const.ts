@@ -1,5 +1,5 @@
 // const
-const MAPBOX_TOKEN =
+const MAPBOX_TOKEN =pk.eyJ1IjoianVmc2giLCJhIjoiY21meHQ2enhnMDd0czJvcjQycnRxdzY3aCJ9.1bQn8G4Z34moMDHxuAHzIg
   // For security reasons, please avoid using the default public token provided by Mapbox as much as possible.
   // Instead, manually add a new token and apply URL restrictions.
   // (please refer to https://github.com/yihong0618/running_page/issues/643#issuecomment-2042668580)
